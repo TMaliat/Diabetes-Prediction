@@ -1,4 +1,6 @@
 Diabetes-Prediction
+
+
 A ML based approach to early detect Type-2 Diabetes.
 
 In this project, I implemented a Diabetes Prediction System using the PIMA Indians Diabetes Dataset, a widely recognized dataset for predicting Type 2 diabetes risk. The system utilizes key health parameters like glucose levels, blood pressure, BMI, age, and others to assess diabetes risk and provide personalized healthcare recommendations.
