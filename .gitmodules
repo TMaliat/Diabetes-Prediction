@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TMaliat/Diabetes-Prediction-Frontend.git
